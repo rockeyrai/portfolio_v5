@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --NormalBackgroundColor: #ffffff;
+  --LoadingBackgroundColor: #171717;
+  --NormalSize_p: 14px;
+  --NormalSize_h1: 8rem;
+  --NormalSize_h2: 5rem;
+  --NormalSize_h3: 4rem;
+  --NormalSize_h4: 3rem;
+  --NormalSize_h5: 2rem;
+  --NormalSize_h6: 1rem;
+  --NormalFontWeight: 600;
+  --SmallFontWeight: 400;
+  --BigFontWeight: 800;
+  --NormalLetterSpacing: 0.2rem;
+  --TightLetterSpacing: 0.3rem;
+  --LooseLetterSpacing: -0.2rem;
+}
