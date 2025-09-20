@@ -7,8 +7,9 @@
 }
 
 :root {
-  --NormalBackgroundColor: #ffffff;
+  --NormalBackgroundColor: #241e1e;
   --LoadingBackgroundColor: #171717;
+  --Text:#fffff;
   --NormalSize_p: 14px;
   --NormalSize_h1: 8rem;
   --NormalSize_h2: 5rem;
